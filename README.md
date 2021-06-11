@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="sai kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+<br />
 
 <img align="left" alt="saikumar github stats" src = "https://github-readme-stats.vercel.app/api?username=saikumar-ramavath&show_icons=true&theme=radical" />
 
