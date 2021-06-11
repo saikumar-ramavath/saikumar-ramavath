@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm sai kumar 👋
 
 <!--
 **saikumar-ramavath/saikumar-ramavath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Connect with me:
+
+[<img align="left" alt="sai kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sai kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <img align="left" alt="saikumar github stats" src = "https://github-readme-stats.vercel.app/api?username=saikumar-ramavath&show_icons=true&theme=radical" />
 
+
+[instagram]: https://www.instagram.com/saikumar_ramavath/
+[linkedin]: https://www.linkedin.com/in/sai-kumar-ramavath-18a304199/
