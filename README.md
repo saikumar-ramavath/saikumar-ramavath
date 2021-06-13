@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <br />
 
 <img align="left" alt="saikumar github stats" src = "https://github-readme-stats.vercel.app/api?username=saikumar-ramavath&show_icons=true&theme=radical" />
-<br/>
-<br/>
+<br />
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumar-ramavath&label=Profile%20views&color=0e75b6&style=flat" alt="saikumar-ramavath" /> </p>
 
