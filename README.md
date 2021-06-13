@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Connect with me:
 
-[<img align="left" alt="sai kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sai kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left">
+  <h2 align="left">Connect with me..</h2>
+  <a href="https://www.linkedin.com/in/sai-kumar-ramavath-18a304199/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="saikumar ramavath"/></a>
+  <a href="https://www.gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/saikumar_ramavath/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
+  </p>
+  <br>
 
-<br />
-<br />
-<br />
-
-<img align="left" alt="saikumar github stats" src = "https://github-readme-stats.vercel.app/api?username=saikumar-ramavath&show_icons=true&theme=radical" />
+<img align="center" alt="saikumar github stats" src = "https://github-readme-stats.vercel.app/api?username=saikumar-ramavath&show_icons=true&theme=radical" />
 <br >
-<br >
+
+<p>I'll be very gratefull to have feedback on any repository:innocent:.</p>
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumar-ramavath&label=Profile%20views&color=0e75b6&style=flat" alt="saikumar-ramavath" /> </p>
 
-[instagram]: https://www.instagram.com/saikumar_ramavath/
-[linkedin]: https://www.linkedin.com/in/sai-kumar-ramavath-18a304199/
